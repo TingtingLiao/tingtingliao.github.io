@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
  
 
-:sparkles: :smile: Hi, I am a PhD student, in [MBZUAI](https://mbzuai.ac.ae/), advised by [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html). My research interests are 3D computer vision, avatar generation, animation and reconstruction.  
+:sparkles: :smile: Hi, I am a PhD student, in [MBZUAI](https://mbzuai.ac.ae/), advised by [Hao Li](https://www.hao-li.com/Hao_Li/Hao_Li_-_about_me.html). My research interests includes 3D generation, avatar animation, relighting and computer graphics related topics. 
 
 I earned my Master's degree from the Institute of Automation, Chinese Academy of Sciences, working in National Laboratory of Pattern Recognition under the supervision [Zhen Lei](http://www.cbsr.ia.ac.cn/users/zlei/). Before that I completed my Bachelor's degree in Mathematics and Computer Science from Wuhan Polytechnic University.
 
